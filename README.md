@@ -16,11 +16,6 @@
 
 ---
 
-🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=wishwam&theme=radical)
-
----
-
 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wishwam-58bbb0321)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wishh_.18?igsh=MWYyY3hwcWJmOHVjOA==)  
