@@ -18,12 +18,11 @@
 ## 📊 GitHub Stats (Optional)
 > ⚠️ If stats do not load, GitHub may be blocking external images.
 
-<!-- Uncomment when stats work properly -->
-<!--
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishwam&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishwam&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=wishwam)
--->
+
 
 ---
 
