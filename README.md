@@ -51,8 +51,8 @@ I believe in learning by building — messy projects, broken code, and all.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Wishwam's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wishwam&show_icons=true&theme=tokyonight&hide_border=true" alt="Wishwam's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wishwam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
