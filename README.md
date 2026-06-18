@@ -51,7 +51,6 @@ I believe in learning by building — messy projects, broken code, and all.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wishwam&show_icons=true&theme=tokyonight&hide_border=true" alt="Wishwam's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wishwam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
@@ -86,7 +85,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/wishwam-58bbb03
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Wishwam&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center"><em>⭐ Code. Learn. Build. Repeat.</em></p>
